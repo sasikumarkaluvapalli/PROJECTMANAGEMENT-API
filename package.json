@@ -1,0 +1,22 @@
+{
+  "name": "EmployeeService",
+  "version": "1.0.0",
+  "description": "EmployeeService",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.23.0",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

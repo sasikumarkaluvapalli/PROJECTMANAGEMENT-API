@@ -1,0 +1,338 @@
+openapi: 3.0.3
+info:
+  description: Product Management API
+  title:  Product Management API
+  version: 1.0.0
+servers:
+  - description: Dev server
+    url: http://localhost:5000/
+paths:
+  /items:
+    get:
+      summary: Get All Item Details
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Item'
+
+  /item:
+      post:
+        summary: Create Item Details
+        requestBody:
+          description: Item Details
+          required: true
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Item'
+        responses:
+          '200':
+            description: OK
+            content:
+              application/json:
+                schema:
+                  type: array
+                  items:
+                    $ref: '#/components/schemas/Item'
+
+  /item/{id}:
+    get:
+      summary: Get Specific Item Details
+      parameters:
+        - name: id
+          in: path
+          description: ID of the item
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Item'
+    delete:
+      summary: Delete Specific Item Details
+      parameters:
+        - name: id
+          in: path
+          description: ID of the item
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Item'
+    put:
+      summary: Modify Specific Item Details
+      parameters:
+        - name: id
+          in: path
+          description: ID of the item
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        description: Item Details
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Item'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Item'  
+  
+
+
+  /itemsDescriptions:
+    get:
+      summary: Get All Item Descriptions Details
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Description'  
+  /itemDescription:
+    post:
+      summary: Create Item Descriptions Details
+      requestBody:
+        description: Item Descriptions Details
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Description'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Description'
+  /itemDescription/{id}:
+    get:
+      summary: Get Specific Item Description Details
+      parameters:
+        - name: id
+          in: path
+          description: ID of the itemDescription
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Description'
+    delete:
+      summary: Delete Specific Item Description Details
+      parameters:
+        - name: id
+          in: path
+          description: ID of the itemDescription
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Description'
+    put:
+      summary: Modify Specific Item Description Details
+      parameters:
+        - name: id
+          in: path
+          description: ID of the itemDescription
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        description: Item Description Details
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Description'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Description'  
+  /orders:
+    get:
+      summary: Get All Order Details
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Order'
+  /order:
+      post:
+        summary: Create Order Details
+        requestBody:
+          description: Order Details
+          required: true
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Order'
+        responses:
+          '200':
+            description: OK
+            content:
+              application/json:
+                schema:
+                  type: array
+                  items:
+                    $ref: '#/components/schemas/Order'
+
+  /order/{id}:
+    get:
+      summary: Get Specific Order Details
+      parameters:
+        - name: id
+          in: path
+          description: ID of the order
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Order'
+    delete:
+      summary: Delete Specific Order Details
+      parameters:
+        - name: id
+          in: path
+          description: ID of the order
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Order'
+    put:
+      summary: Modify Specific Order Details
+      parameters:
+        - name: id
+          in: path
+          description: ID of the order
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        description: Order Details
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Order'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Order'
+
+
+components:
+  schemas:
+    Item:
+      type: object
+      properties:
+        _id:
+          type: integer
+        Name:
+          type: string 
+        Description No :
+          type: integer           
+        Price:
+          type: integer
+        Manufacturing Date:
+          type: date
+        Expiry Date:
+          type: date
+
+    Description:
+      type: object
+      properties:
+        _id:
+          type: integer
+        Batch No:
+          type: string
+        Manufacturer:
+          type: string
+
+    Order:
+      type: object
+      properties:
+        _id:
+          type: integer
+        Customer:
+          type: integer
+        Item:
+          type: string
+        Quantity:
+          type: integer
+        Price:
+          type: integer
+

@@ -1,0 +1,329 @@
+Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)Below are the tasks I want you guys to work on:
+3.create text file with multiple lines of text which is going to be input for your program
+4. Read the file contents line by line synchronously
+5. Using event emitter create file read event and you should pass file name as the data for this event.
+6. You should listen for the file read event and display the data (file name)
