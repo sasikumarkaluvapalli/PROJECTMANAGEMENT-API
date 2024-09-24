@@ -17,7 +17,7 @@ exports.show = async (database, id) => {
     let result = await collection.findOne({ "_id": Number(id) });
 
     if (result == null) {
-        return "No Description ";
+        return "No Descriptiohghhn ";
     }
 
     return new Promise((resolve, reject) => resolve(result));
